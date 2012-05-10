@@ -1,11 +1,11 @@
-SC.Assertion - simple assertion framework for Sproutcore wrapping the code in assert.js from https://github.com/Jxck/assert 
+SC.Assert - simple assertion framework for Sproutcore wrapping the code in assert.js from https://github.com/Jxck/assert 
 which is derived from the node.js assertion library.
 
 By default, the assertion will not throw the errors, but rather return true or false.
 If you want to have real error throwing, set SC.Assertion.throwErrors to true
 
 The following methods are available:
-SC.Assertion
+SC.Assert
   assert
   ok
   fail

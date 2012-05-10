@@ -26,7 +26,7 @@
 
 // this is a SC port of https://github.com/Jxck/assert into an SC framework
 
-SC.Assertion = SC.Object.create({
+SC.Assert = SC.Object.create({
   
   throwErrors: false,
   
