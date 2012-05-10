@@ -2,7 +2,7 @@ SC.Assert - simple assertion framework for Sproutcore wrapping the code in asser
 which is derived from the node.js assertion library.
 
 By default, the assertion will not throw the errors, but rather return true or false.
-If you want to have real error throwing, set SC.Assertion.throwErrors to true
+If you want to have real error throwing, set SC.Assert.throwErrors to true
 
 The following methods are available:
 SC.Assert
